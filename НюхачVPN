@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //last update on: 2026-05-11 02:25:34
-vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@193.233.139.162:443?encryption=none&security=reality&sni=apple.com&pbk=51xewyxkq_fCP74DUHhKxzIhzLfXAsDl1pv0Wz3T-1I&sid=a2917ac7a9&fp=chrome&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://2ea1a3c8-2581-4ead-8291-43fee2f8be3d@62.60.228.89:443?type=tcp&security=reality&sni=api.ok.ru&pbk=ydoxmw5pH_JPRTbjeNKnsF-MfVybjnAYLnhwRj3n3yE&sid=5274fd06821c&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&security=reality&sid=a729a7&sni=google.com&spx=%2FqApzPQGq8Dbdxbm&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD
 vless://472cefc3-afc9-494e-a3a2-caad057a9abe@185.94.165.47:443?type=tcp&security=reality&pbk=tQo-3pPUFf_OBywQanyHxwd7IbABWak5Ucprp2xzjkE&fp=random&sni=yandex.ru&sid=7352d990&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 vless://1295712a-c046-4a3b-a18d-5019f6747f98@89.232.177.55:443?type=tcp&security=reality&pbk=RVkVE46kY1ohlQljZIkaAH8DVao2CiuEDT5rNkLxoRI&fp=chrome&sni=shinder.strelkavpn.ru&sid=725eb2e5&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
